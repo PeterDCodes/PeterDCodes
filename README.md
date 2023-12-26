@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PeterDCodes
-- 🏭 I’m a manufacturing engineer aspiring to create automation/metrology software solutions
+- 🏭 I’m an engineer aspiring to create manufacturing software solutions
 - 🌱 I’m currently learning coding fundamentals (C 💻 + Pyhton 🐍)
   
 <!---
