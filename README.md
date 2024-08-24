@@ -1,5 +1,5 @@
 - @PeterDCodes
-- Engineer aspiring to create manufacturing software solutions
+- creating manufacturing software solutions
 - C, Python, SQL, HTML, CSS, JavaScript
   
 <!---
