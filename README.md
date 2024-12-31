@@ -1,6 +1,6 @@
 - @PeterDCodes
 - creating manufacturing software solutions
-- C, Python, SQL, HTML, CSS, JavaScript
+- Java, C, Python, SQL, HTML, CSS
   
 <!---
 PeterDCodes/PeterDCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
